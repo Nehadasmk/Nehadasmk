@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Neha
 
-I'm a Software Engineer 👩🏻‍💻 passionate about diving deep into advanced C++ technologies, specializing in multithreading, concurrent and parallel programming, STL algorithms, and more for robust and efficient software development. My expertise extends to OOPS, Linux, SQL, Docker, MQTT, and Python.
-
-I'm your go-to person for IoT data collection and cloud integration, crafting solutions for seamless data flow from IoT devices to cloud-based services. Beyond that, I'm deeply interested in Data Science, Machine Learning, and Big Data technologies, with proficiency in Hadoop, Hive, Cassandra, AWS, and Spark frameworks.
+I'm a seasoned Software Engineer with a strong foundation in C++ and a deep passion for data science, machine learning, and big data technologies. My skills include IoT data collection and cloud integration, leveraging frameworks like Hadoop, Hive, and Spark. I also excel in NLP, machine learning models such as CNNs and RNNs, data exploration, and AWS cloud services..
 
 As a lifelong learner, I'm committed to staying at the forefront of technology, always exploring and mastering new concepts. Let's collaborate and innovate together!
 
